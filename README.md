@@ -1,2 +1,2 @@
 # new-one
-javascript project
+javascript project.
